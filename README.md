@@ -1,5 +1,7 @@
 # Machine Learning Files
 
-project.html  - html file
-project.md and project.Rmd - knitr files
+Repository files
+
+1. project.html  - html file
+2. project.md and project.Rmd - knitr files
 
